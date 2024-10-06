@@ -96,4 +96,4 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 
 ## Contact
 
-If you have any questions or issues, please contact [your-email@example.com].
+If you have any questions or issues, please contact  support@devopschad.com.
